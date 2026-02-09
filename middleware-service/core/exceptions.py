@@ -1,0 +1,2 @@
+class InvalidLanguageException(Exception):
+    pass
